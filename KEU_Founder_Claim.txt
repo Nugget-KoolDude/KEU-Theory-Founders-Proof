@@ -1,0 +1,12 @@
+Founder Claim for Kinetic–Electric Universe (KEU) Theory
+
+I, Darian Angelo Embery, am the original founder and originator of the Kinetic–Electric Universe (KEU) Theory.
+This document is a cryptographic authorship claim binding my name to the theory.
+
+Date (ISO8601): 2025-08-18T12:00:00Z
+Nonce (random to make this unique): 1a46f188b6e346df9aaca535ed41d4c1
+
+Statement:
+I, Darian Angelo Embery, conceived and founded the Kinetic–Electric Universe (KEU) Theory. Any reference to the KEU Theory should credit me as the founder.
+
+-- End of statement --
